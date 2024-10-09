@@ -1,0 +1,262 @@
+{
+  "title": "Work Experience",
+  "list": [
+    {
+      "name": "doSul Digital",
+      "position": "Software Developer",
+      "startDate": "2022.04",
+      "endDate": "2024.07",
+      "description": "Software house company.",
+      "projects": [
+        {
+          "title": {
+            "text": "MeuMarketing",
+            "githubLink": null,
+            "otherLink": "https://play.google.com/store/apps/details?id=com.dosul.digital.meumarketing"
+          },
+          "description": "AI generated content Mobile App for politicians",
+          "startDate": "2022.01",
+          "endDate": "",
+          "which": [
+            "UI/UX design", 
+            "sign-up process in chat format", 
+            "app pages",
+            "API integration"
+          ],
+          "techStack": ["React Native", "Php", "JavaScript", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Rio Negrinho Empregos",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Job posting website",
+          "startDate": "2021.6",
+          "endDate": "2021.12",
+          "which": [
+            "backend and database", 
+            "API integration",
+            "template customization"
+          ],
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Manutenções ABPF",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Web system to keep track of railway system maintenance",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "backend and database",
+            "dashboard"
+          ],
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Sócios ABPF",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Web system to automate ABPF members payments",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "backend and database",
+            "dashboard",
+            "asaas payment link integration"
+          ],
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Erede Integration",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Itaú bank payment integration",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "cardToken funtionality for existing php sdk",
+            "API integration"
+          ],
+          "techStack": ["Php", "Docker"]
+        },
+        {
+          "title": {
+            "text": "Arateck",
+            "githubLink": null,
+            "otherLink": "https://arateck.com.br/"
+          },
+          "description": "Metallurgy and painting company website",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "wordpress installation",
+            "posts configuration",
+            "website pages"
+          ],
+          "techStack": ["WordPress", "Php", "JavaScript", "Css", "Html"]
+        },
+        {
+          "title": {
+            "text": "Mangueplast",
+            "githubLink": null,
+            "otherLink": "https://play.google.com/store/apps/details?id=com.dosul.digital.mangueplast"
+          },
+          "description": "Sales representative app",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "API integration",
+            "app pages",
+            "offline order support"
+          ],
+          "techStack": ["React Native", "Php", "JavaScript", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Circuíto das Araucárias",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Bicycle circuit navigation app",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "API integration",
+            "app pages",
+            "offline data display and progress saving"
+          ],
+          "techStack": ["React Native", "Php", "JavaScript", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Passseios de Trem",
+            "githubLink": null,
+            "otherLink": "https://passeiosdetrem.com.br/"
+          },
+          "description": "Train ride ticket e-commerce",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "complex reports",
+            "bug fixes",
+            "new features"
+          ],
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Nosso Jardim",
+            "githubLink": null,
+            "otherLink": "https://nossojardimrionegrinho.com.br/"
+          },
+          "description": "Rio Negrinho city hall website",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "backend and database",
+            "dashboard",
+            "website pages",
+            "highly customized quiz"
+          ],
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
+            "text": "AdvIntegra",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Fiscal documents correction web system",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "SPED document correction feature",
+            "bug fixes"
+          ],
+          "techStack": ["React", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Organize Decorando",
+            "githubLink": null,
+            "otherLink": "https://organizedecorando.com/"
+          },
+          "description": "E-commerce",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "social network login plugin installation and configuration",
+            "client support"
+          ],
+          "techStack": ["Magento", "React", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
+            "text": "PocketAir",
+            "githubLink": null,
+            "otherLink": "https://play.google.com/store/apps/details?id=dosul.digital.pocketair"
+          },
+          "description": "App to help air compressors maintenance",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "bug fixes"
+          ],
+          "techStack": ["React Native", "Php", "JavaScript", "Css", "Html", "Sql"]
+        },
+        {
+          "title": {
+            "text": "Feistock",
+            "githubLink": null,
+            "otherLink": "https://feistock.com.br/"
+          },
+          "description": "Furniture fair website",
+          "startDate": "2021.03",
+          "endDate": "2021.06",
+          "which": [
+            "backend and database",
+            "dashboard",
+            "website pages"
+          ],
+          "techStack": ["React", "Next.js", "Php", "JavaScript", "Css", "Html", "Sql"]
+        }
+      ]
+    },
+    {
+      "name": "Uktech",
+      "position": "Intern",
+      "startDate": "2021.04",
+      "endDate": "2022.04",
+      "description": "IT support, office suplies and software licensing company.",
+      "projects": [
+        {
+          "title": {
+            "text": "Power monitoring tool",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Mesh network to monitor equipment power consumption",
+          "startDate": "2020.08",
+          "endDate": "2021.03",
+          "which": [
+            "circuit board chip programing",
+            "convertion of C/C++ library to Java",
+            "dashboard",
+            "embedded linux image backing",
+            "REST API using java",
+            "AngularJs web system"
+          ],
+          "techStack": ["C", "C++", "Java", "Spring Boot", "JavaScript", "AngularJs"]
+        }
+      ]
+    }
+  ]
+}
